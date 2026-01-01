@@ -2,6 +2,11 @@
 
 Este repositório é utilizado para armazenar meus exercícios de Python, organizados por pastas de acordo com os capítulos e tópicos do curso.
 
+![wallpaper](0.%20images/wallpaper.png)
+
+
+
+
 ## Estrutura do Repositório
 
 Os exercícios estão divididos em pastas temáticas, cada uma representando um capítulo ou conceito específico do curso. Dentro de cada pasta, os exercícios são numerados sequencialmente para facilitar o acompanhamento do progresso.
@@ -18,6 +23,8 @@ Os exercícios estão divididos em pastas temáticas, cada uma representando um 
 - [3.Fluxodecontrole](3.Fluxodecontrole)
   - [1. Notas IF else.py](3.Fluxodecontrole/1.%20Notas%20IF%20else.py) - Aprovado/reprovado com nota mínima de 55
   - [2. Operadores.py](3.Fluxodecontrole/2.%20Operadores.py) - Classificação de pH em básico, ácido ou neutro
+  - [3. Aleatórios.py](3.Fluxodecontrole/3.%20Aleat%C3%B3rios.py) - Magic 8-ball (previsões aleatórias)
+  - [4. Logical Operator.py](3.Fluxodecontrole/4.%20Logical%20Operator.py) - (Em desenvolvimento)
 
 ## Sobre o Curso
 
