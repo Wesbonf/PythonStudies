@@ -11,10 +11,13 @@ Os exercícios estão divididos em pastas temáticas, cada uma representando um 
 #### Capítulo 1 - (Em breve)
 
 #### Capítulo 2 - Variáveis
-- **2.Variaveis/** - Exercícios sobre variáveis em Python
-  - `1.moeda/` - Conversor de moedas (Pesos, Soles e Reais para USD)
+- [2.Variaveis](2.Variaveis)
+  - [1.moeda/moeda.py](2.Variaveis/1.moeda/moeda.py) - Conversor de moedas (Pesos, Soles e Reais para USD)
 
-#### Capítulo 3 - Control Flow (Próximo)
+#### Capítulo 3 - Fluxo de Controle
+- [3.Fluxodecontrole](3.Fluxodecontrole)
+  - [1. Notas IF else.py](3.Fluxodecontrole/1.%20Notas%20IF%20else.py) - Aprovado/reprovado com nota mínima de 55
+  - [2. Operadores.py](3.Fluxodecontrole/2.%20Operadores.py) - Classificação de pH em básico, ácido ou neutro
 
 ## Sobre o Curso
 
