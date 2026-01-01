@@ -1,20 +1,25 @@
 import random
 
+pergunta = input("Me faça qualquer pergunta: ")
+
 num = random.randint(1, 8)
 
 if num == 1:
-    print('Sim - com certeza.')
+    resposta = "Sim - definitivamente"
 elif num == 2:
-    print('Decididamente sim.')
+    resposta = 'É bem assim'
 elif num == 3:
-    print('Sem dúvida.')
+    resposta = 'Sem dúvida'
 elif num == 4:
-    print('Resposta incerta, tente novamente.')
+    resposta = 'Resposta vaga, tente novamente'
 elif num == 5:
-    print('Pergunte novamente mais tarde.')
+    resposta = 'Pergunte mais tarde'
 elif num == 6:
-    print('Concentre-se e pergunte novamente.')
+    resposta = 'Melhor não contar agora'
 elif num == 7:
-    print('Minha resposta é não.')
+    resposta = 'Minhas fontes dizem não'
 elif num == 8:
-    print('Muito duvidoso.')
+    resposta = 'Perspectiva não é boa'
+
+print(f"Pergunta: {pergunta}")
+print(f"Resposta: {resposta}")
