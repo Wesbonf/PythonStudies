@@ -13,7 +13,11 @@ Os exercícios estão divididos em pastas temáticas, cada uma representando um 
 
 ### Conteúdo Atual
 
-#### Capítulo 1 - (Em breve)
+#### Capítulo 1 - Hello World ✅
+- [1. Hello World](1.%20Hello%20World)
+  - [1. hello world.py](1.%20Hello%20World/1.%20hello%20world.py) - Primeiro programa em Python
+  - [2. Linha por linha.py](1.%20Hello%20World/2.Linha%20por%20linha.py) - Análise linha por linha
+  - [3. Comentários.py](1.%20Hello%20World/3.%20Coment%C3%A1rios.py) - Uso de comentários em Python
 
 #### Capítulo 2 - Variáveis
 - [2.Variaveis](2.Variaveis)
